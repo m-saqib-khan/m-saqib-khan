@@ -1,7 +1,7 @@
 ## Hi 👋, I'm M Saqib Khan
 ### (Full Stack Engineer & Agentic AI Enthusiast)
 
-📫 Feel free to email me at: muhammadsaqibkhan1999@gmail.com
+📫 Feel free to email me at: muhammadsaqibkhan575@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saqibkhan.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saqib_khan789) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msk-saqib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsaqibkhan1999@gmail.com) 
